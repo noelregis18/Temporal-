@@ -1,5 +1,4 @@
-# BadWolf
-
+# 
 [![Test Status](https://github.com/google/badwolf/workflows/tests/badge.svg)](https://github.com/google/badwolf/actions?query=workflow%3Atests)
 [![Go Report Card](https://goreportcard.com/badge/github.com/google/badwolf)](https://goreportcard.com/report/github.com/google/badwolf)
 [![GoDoc](https://godoc.org/github.com/google/badwolf?status.svg)](https://godoc.org/github.com/google/badwolf)
